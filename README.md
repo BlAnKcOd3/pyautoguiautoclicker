@@ -1,3 +1,3 @@
 # pyautoguiautoclicker
-just an improved version of a simple autoclicker
+just an improved version of a simple autoclicker\n
 credits/inspiration: https://github.com/dillythecoder/Autoclicker-in-python
