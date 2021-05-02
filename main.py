@@ -5,8 +5,7 @@ enter = input("Welcome to the pyautogui autoclicker! \nPress enter to continue!"
 user = int(input("Amount of Clicks: "))
 click = str(input("Type of click(left or right)(must be exact): "))
 speed = float(input("Interval per click(can be decimals): "))
-print(
-    click + " clicking will start clicking " + str(user) + " times in 5 seconds at the interval of " + str(speed) + ".")
+print(click + " clicking will start clicking " + str(user) + " times in 5 seconds at the interval of " + str(speed) + ".")
 time.sleep(1)
 print("5")
 time.sleep(1)
